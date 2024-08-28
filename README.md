@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @NidhiDhamne
 - 👀 I’m interested in coding, AI and DataScience
-- 🌱 I’m currently learning Python and Studying as a freshman CSE student.
 - 📫 How to reach me : dhamnenidhi3@gmail.com 
 
 <!---
